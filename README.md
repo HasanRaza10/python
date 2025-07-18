@@ -1,4 +1,4 @@
-# Python Programs
+# Python Learning Journey
 
 Welcome to my personal repository dedicated to my Python learning journey! This repository serves as a collection of notes, code examples, exercises, and projects covering various Python concepts, from fundamental topics to advanced programming paradigms..
 
@@ -7,8 +7,6 @@ Welcome to my personal repository dedicated to my Python learning journey! This 
 This repository contains a structured collection of Python scripts and exercises. Each section focuses on a fundamental aspect of Python, providing hands-on examples that illustrate core programming principles and language features. It's an ideal resource for beginners learning Python or for anyone looking to refresh their knowledge on specific topics.
 
 ## What You'll Find Here
-
-# Python Learning Journey
 
 ## Table of Contents
 

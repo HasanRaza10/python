@@ -35,7 +35,7 @@ To explore the code, simply clone this repository to your local machine:
 
 ```bash
 git clone [https://github.com/HasanRaza10/python.git](https://github.com/HasanRaza10/python.git)
-
+```
 ## How to Run These Programs
 
 To run any of the Python programs in this repository:
@@ -54,7 +54,7 @@ To run any of the Python programs in this repository:
     python your_program_name.py
     ```
     (Replace `your_program_name.py` with the actual name of the Python file you wish to run).
-```
+
 
 ## Contribution
 
